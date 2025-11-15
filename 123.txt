@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,dnt92ffcqr0xu.cloudfront.net
-DOMAIN-SUFFIX,d1skbu98kuldnf.cloudfront.net
+DOMAIN-SUFFIX,d2ht17eu5c0ykz.cloudfront.net
+DOMAIN-SUFFIX,d1sn57bew5rukg.cloudfront.net
